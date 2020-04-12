@@ -1,16 +1,16 @@
 # EmojiHousie
 A Simple Python project for Emoji Housie. The Source contains two different python script. TicketGenerator for generating tickets and GameBoardSimulator for playing the game.
 
-#Requirements
+# Requirements
 Python 3.*
 imgkit : https://pypi.org/project/imgkit/
 Current version is tested on windows. 
 Install any auto page refresh extension on your browser. This will be useful for automatically updating the board when ever its updated.
 
-#Installation
+# Installation
 No installation is required for this script. Make sure all the requirements are present.
 
-#Uses
+# Uses
 
 Ticket Generator
 usage: TicketGenerator.py [-h] [-n N] [-i I] [-d D] [-o O] [-w W] [-c C]
