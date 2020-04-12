@@ -15,6 +15,7 @@ No installation is required for this script. Make sure all the requirements are 
 Ticket Generator
 usage: TicketGenerator.py [-h] [-n N] [-i I] [-d D] [-o O] [-w W] [-c C]
 
+```
 optional arguments:
   -h, --help  show this help message and exit
   -n N        Number to Tickets. Default : 100
@@ -31,5 +32,6 @@ optional arguments:
   -h, --help  show this help message and exit
   -d D        DataBase Path. Path of the data baase folder used while generating tickets.
   -b B        Board Path. This where the game board will be rendered as HTML.
+  ```
  
  
